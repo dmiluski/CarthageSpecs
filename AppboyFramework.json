@@ -1,4 +1,6 @@
 {
+  "3.11.0": "https://github.com/Appboy/appboy-ios-sdk/releases/download/3.11.0/Appboy_iOS_SDK.framework.zip",
+  "3.10.0": "https://github.com/Appboy/appboy-ios-sdk/releases/download/3.10.0/Appboy_iOS_SDK.framework.zip",
   "3.9.0": "https://github.com/Appboy/appboy-ios-sdk/releases/download/3.9.0/Appboy_iOS_SDK.framework.zip",
   "3.3.2": "https://github.com/Appboy/appboy-ios-sdk/releases/download/3.3.2/Appboy_iOS_SDK.framework.zip",
   "3.2.3": "https://github.com/Appboy/appboy-ios-sdk/releases/download/3.2.3/Appboy_iOS_SDK.framework.zip",
